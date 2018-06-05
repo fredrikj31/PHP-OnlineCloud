@@ -1,0 +1,8 @@
+Vi kunne uploaded en fil ogs� rename vi s� filen til fil+"User Id" ogs� gemmer vi s� det gamle file navn i en database
+ogs� n�r de gerne ville downloade filen downloader de den med det gamle navn.
+
+
+Det vi skal gøre i dag det er at vi skal give filerne et unikt id hvor vi så sætter det ind i en database, også det er på den måde vi kan download files på 
+og dcer er også den måde vi kan finde ud af hvad filen hedder
+
+Vi skal også gøre så vi sætter hvad for en slags fil type vi sætter ind i og det gemmer vi så også i databasen.
